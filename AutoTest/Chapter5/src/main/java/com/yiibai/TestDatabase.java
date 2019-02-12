@@ -11,5 +11,6 @@ public class TestDatabase {
     @Test(dependsOnMethods = {"intDB"},groups = "db")
     public void testConnection(){
         System.out.println("This is testConnection");
+       // throw new RuntimeException();
     }
 }

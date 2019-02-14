@@ -6,6 +6,13 @@
             <class name="suite.LoginTest"/>
         </classes>
     </test>
+    <test name="pay">
+        <classes>
+            <class name="suite.SuiteConfig"/>
+            <class name="suite.PayTest"/>
+        </classes>
+    </test>
+
 </suite>
 
 

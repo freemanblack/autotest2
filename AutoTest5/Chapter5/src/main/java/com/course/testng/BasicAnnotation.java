@@ -1,8 +1,6 @@
 package com.course.testng;
 
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 public class BasicAnnotation {
     @Test
@@ -23,5 +21,15 @@ public class BasicAnnotation {
     @AfterMethod
     public void afterMethod(){
         System.out.println("afterMethod这是方法之前运行的");
+    }
+
+    @BeforeClass
+    public void beforeClass(){
+        System.out.println("beforeClass这是类之前运行的");
+    }
+
+    @AfterClass
+    public void afterClass(){
+        System.out.println("beforeClass这是类之后运行的");
     }
 }

@@ -9,6 +9,7 @@ public class DataProviderTest {
 //1、一个简单的@DataProvider示例，直接传递参数
     @Test(dataProvider = "data")
     public void testDataProvider(String name,int age){
+
         System.out.println("name=" + name +"; age=" + age);
     }
 
@@ -26,12 +27,13 @@ public class DataProviderTest {
 
     @Test(dataProvider = "methodData")
     public void test1(String name,int age){
-        System.out.printf("Thread ID: %s%n", Thread.currentThread().getId());
+      //  System.out.printf("Thread ID: %s%n", Thread.currentThread().getId());
         System.out.println("test11方法 name=" + name +"; age=" +age);
     }
 
     @Test(dataProvider = "methodData")
     public void test2(String name,int age){
+
         System.out.println("test22方法 name=" + name +"; age=" +age);
     }
 

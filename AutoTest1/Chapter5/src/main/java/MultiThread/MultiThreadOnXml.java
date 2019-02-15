@@ -6,6 +6,7 @@ public class MultiThreadOnXml {
 
     @Test
     public void test1(){
+
         System.out.printf("Thread ID:%s %n",Thread.currentThread().getId());
     }
 
@@ -16,6 +17,7 @@ public class MultiThreadOnXml {
 
     @Test
     public void test3(){
+
         System.out.printf("Thread ID:%s %n",Thread.currentThread().getId());
     }
 }

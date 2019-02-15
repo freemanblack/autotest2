@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="AutoTest1(failed)">
+    <classes>
+      <class name="TimeOutTest">
+        <methods>
+          <include name="testFailed"/>
+        </methods>
+      </class> <!-- TimeOutTest -->
+    </classes>
+  </test> <!-- AutoTest1(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

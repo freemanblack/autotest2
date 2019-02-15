@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="4059" started-at="2019-02-13T13:51:02 CST" finished-at="2019-02-13T13:51:06 CST">
+    <groups>
+    </groups>
+    <test name="AutoTest1" duration-ms="4059" started-at="2019-02-13T13:51:02 CST" finished-at="2019-02-13T13:51:06 CST">
+      <class name="TimeOutTest">
+        <test-method status="FAIL" signature="testFailed()[pri:0, instance:TimeOutTest@1a407d53]" name="testFailed" duration-ms="2019" started-at="2019-02-13T13:51:02 CST" finished-at="2019-02-13T13:51:04 CST">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method TimeOutTest.testFailed() didn't finish within the time-out 2000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method TimeOutTest.testFailed() didn't finish within the time-out 2000
+at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.signalAll(AbstractQueuedSynchronizer.java:1953)
+at java.util.concurrent.ThreadPoolExecutor.tryTerminate(ThreadPoolExecutor.java:716)
+at java.util.concurrent.ThreadPoolExecutor.processWorkerExit(ThreadPoolExecutor.java:1014)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFailed -->
+        <test-method status="PASS" signature="testSuccess()[pri:0, instance:TimeOutTest@1a407d53]" name="testSuccess" duration-ms="2010" started-at="2019-02-13T13:51:04 CST" finished-at="2019-02-13T13:51:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuccess -->
+      </class> <!-- TimeOutTest -->
+    </test> <!-- AutoTest1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>

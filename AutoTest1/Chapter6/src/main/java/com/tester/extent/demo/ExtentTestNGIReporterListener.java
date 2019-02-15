@@ -109,7 +109,7 @@ public class ExtentTestNGIReporterListener implements IReporter {
         }
         ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(OUTPUT_FOLDER + FILE_NAME);
         // 设置静态文件的DNS
-        //怎么样解决cdn.rawgit.com访问不了的情况（--注意若在浏览器没法加载页面，有可能是CSS加载问题，按此方法修改即可）
+        //怎么样解决cdn.rawgit.com访问不了的情况（！！！注意若在浏览器没法加载页面，有可能是CSS加载问题，按此方法修改即可）
         htmlReporter.config().setResourceCDN(ResourceCDN.EXTENTREPORTS);
 
         htmlReporter.config().setDocumentTitle("Wconcept-Api自动化测试报告");

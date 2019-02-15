@@ -2,12 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427ff1a4-c423-467f-9cfd-dde35d2a568d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/java/andycpp/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoTest1/Chapter7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoTest1/Chapter7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoTest1/Chapter7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoTest1/Chapter7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoTest1/Chapter7/Chapter7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoTest1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/java/MultiThread/MultiThreadOnXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/java/MultiThread/MultiThreadOnXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/java/TimeOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/java/TimeOutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/java/com/course/testng/parameter/DataProviderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/java/com/course/testng/parameter/DataProviderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/resources/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/src/main/resources/multiThread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/target/classes/MultiThread/MultiThreadOnXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/target/classes/MultiThread/MultiThreadOnXml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/target/classes/com/course/testng/parameter/DataProviderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/target/classes/com/course/testng/parameter/DataProviderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter5/target/classes/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter5/target/classes/multiThread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest1/Chapter6/src/main/java/com/tester/extent/demo/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest1/Chapter6/src/main/java/com/tester/extent/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoTest2/Chapter5/Chapter5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/yiibai/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/yiibai/TestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/yiibai/TestDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/yiibai/TestDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/yiibai/TestServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/java/com/yiibai/TestServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/resources/GroupsOnClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/resources/GroupsOnClass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest3/Chapter5/src/main/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
@@ -52,21 +78,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestDatabase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -74,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="95">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -89,21 +111,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+            <state relative-caret-position="380">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
-                <element signature="e#945#946#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,10 +172,10 @@
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/ExpectedException.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/DependTest.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestServer.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestDatabase.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestApp.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" />
+        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestDatabase.java" />
       </list>
     </option>
   </component>
@@ -171,11 +186,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="12" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="214" />
+    <option name="y" value="32" />
     <option name="width" value="1400" />
-    <option name="height" value="1032" />
+    <option name="height" value="967" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -188,29 +203,21 @@
           <expand>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -218,7 +225,6 @@
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -227,13 +233,34 @@
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="testng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yiibai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,15 +273,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548912488057" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550111568307" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../autotest2-cx3/autotest2-cx3/Chapter5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoTest3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30840045" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -268,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BasicAnnotation">
+  <component name="RunManager" selected="TestNG.C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml">
     <configuration name="BasicAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <extension name="coverage">
@@ -327,29 +354,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Groups1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDatabase.intDB" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.testng.groups.*" />
+          <option name="PATTERN" value="com.yiibai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.testng.groups" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.groups.Groups1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="IntelliJ IDEA IU-183.5153.38" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.yiibai" />
+      <option name="MAIN_CLASS_NAME" value="com.yiibai.TestDatabase" />
+      <option name="METHOD_NAME" value="intDB" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.BasicAnnotation" />
+      <item itemvalue="TestNG.C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.DependTest" />
+      <item itemvalue="TestNG.ExpectedException" />
+      <item itemvalue="TestNG.TestDatabase.intDB" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.BasicAnnotation" />
         <item itemvalue="TestNG.C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.TestDatabase.intDB" />
+        <item itemvalue="TestNG.BasicAnnotation" />
         <item itemvalue="TestNG.DependTest" />
         <item itemvalue="TestNG.ExpectedException" />
-        <item itemvalue="TestNG.Groups1" />
       </list>
     </recent_temporary>
   </component>
@@ -364,26 +410,20 @@
       <option name="presentableId" value="Default" />
       <updated>1548811873294</updated>
       <workItem from="1548811874546" duration="14446000" />
-      <workItem from="1548900334980" duration="1385000" />
+      <workItem from="1548900334980" duration="1428000" />
+      <workItem from="1548917303853" duration="25000" />
+      <workItem from="1548917590579" duration="1213000" />
+      <workItem from="1549852291590" duration="760000" />
+      <workItem from="1549952201056" duration="1574000" />
+      <workItem from="1550024209444" duration="622000" />
+      <workItem from="1550109711420" duration="384000" />
+      <workItem from="1550110176407" duration="991000" />
+      <workItem from="1550111514369" duration="124000" />
+      <workItem from="1550111884745" duration="1224000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_ab055775_muke_autotest2_autotest2_AutoTest_Chapter5_src_main_resources_GroupsOnClass_xml - 2019.01.30 at 15h 20m 57s.xml">
-      <configuration name="C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/GroupsOnClass.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Groups1 - 2019.01.30 at 15h 26m 14s.xml">
-      <configuration name="Groups1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Groups1 - 2019.01.30 at 15h 26m 59s.xml">
-      <configuration name="Groups1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Groups1 - 2019.01.30 at 15h 27m 33s.xml">
-      <configuration name="Groups1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Groups1 - 2019.01.30 at 15h 27m 59s.xml">
-      <configuration name="Groups1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ExpectedException - 2019.01.30 at 15h 46m 24s.xml">
       <configuration name="ExpectedException" configurationId="TestNG" />
     </history-entry>
@@ -399,15 +439,29 @@
     <history-entry file="BasicAnnotation - 2019.01.31 at 10h 18m 24s.xml">
       <configuration name="BasicAnnotation" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_ab055775_muke_autotest2_autotest2_AutoTest_Chapter5_src_main_resources_testng_xml - 2019.01.31 at 15h 03m 18s.xml">
+      <configuration name="C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_ab055775_muke_autotest2_autotest2_AutoTest_Chapter5_src_main_resources_testng_xml - 2019.02.12 at 14h 19m 46s.xml">
+      <configuration name="C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_ab055775_muke_autotest2_autotest2_AutoTest_Chapter5_src_main_resources_testng_xml - 2019.02.12 at 14h 33m 22s.xml">
+      <configuration name="C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_ab055775_muke_autotest2_autotest2_AutoTest_Chapter5_src_main_resources_testng_xml - 2019.02.12 at 14h 33m 43s.xml">
+      <configuration name="C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_ab055775_muke_autotest2_autotest2_AutoTest_Chapter5_src_main_resources_testng_xml - 2019.02.14 at 10h 32m 19s.xml">
+      <configuration name="C:/Users/ab055775/muke/autotest2/autotest2/AutoTest/Chapter5/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15831000" />
+    <option name="totallyTimeSpent" value="22791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="12" width="1400" height="1032" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40074626" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,7 +470,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39309576" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,9 +478,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32850778" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3275488" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32739422" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3264642" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -570,26 +624,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -607,28 +668,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/testng.xml">
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/yiibai/TestDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#945#946#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="266">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -684,7 +727,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>AutoTest</last-edited>
+          <last-edited>Chapter5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

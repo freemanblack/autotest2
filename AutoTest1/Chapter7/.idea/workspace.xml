@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7c86318-011a-4f78-b4fc-b18617c79688" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startupWithCookies.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startupWithHeader.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/startupWithRedirect.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest/.idea/AutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest/.idea/AutoTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/src/main/java/MultiThread/MultiThreadOnXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/src/main/java/MultiThread/MultiThreadOnXml.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/src/main/java/TimeOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/src/main/java/TimeOutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/src/main/java/com/course/testng/parameter/DataProviderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/src/main/java/com/course/testng/parameter/DataProviderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/src/main/resources/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/src/main/resources/multiThread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/target/classes/MultiThread/MultiThreadOnXml.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/target/classes/MultiThread/MultiThreadOnXml.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/target/classes/com/course/testng/parameter/DataProviderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/target/classes/com/course/testng/parameter/DataProviderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5/target/classes/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5/target/classes/multiThread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter6/src/main/java/com/tester/extent/demo/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/src/main/java/com/tester/extent/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基本操作说明" beforeDir="false" afterPath="$PROJECT_DIR$/基本操作说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest2/Chapter5/Chapter5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnClass3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/course/testng/groups/groupsOnMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/yiibai/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/yiibai/TestApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/yiibai/TestDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/yiibai/TestDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/yiibai/TestServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/java/com/yiibai/TestServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/resources/GroupsOnClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/resources/GroupsOnClass.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AutoTest3/Chapter5/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startupWithRedirect.json" beforeDir="false" afterPath="$PROJECT_DIR$/startupWithRedirect.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/startupWithRedirect.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -122,24 +86,14 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Chapter7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550195771288" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550211827541" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -169,16 +123,15 @@
       <updated>1550111957049</updated>
       <workItem from="1550111960430" duration="25000" />
       <workItem from="1550136263728" duration="3125000" />
-      <workItem from="1550192459258" duration="3203000" />
+      <workItem from="1550192459258" duration="4060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6353000" />
+    <option name="totallyTimeSpent" value="7210000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="158" y="283" width="1400" height="967" extended-state="0" />
-    <editor active="true" />
+    <frame x="312" y="76" width="1400" height="967" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -245,7 +198,7 @@
     <entry file="file://$PROJECT_DIR$/startupWithRedirect.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

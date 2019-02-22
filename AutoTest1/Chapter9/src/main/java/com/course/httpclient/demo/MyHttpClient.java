@@ -32,9 +32,8 @@ public class MyHttpClient {
         HttpClient client = new DefaultHttpClient();
         HttpResponse response = client.execute(get);
 
-       // String result = EntityUtils.toString(response.getEntity(), defaultCharset:UTF-8);//---
 
-        result = EntityUtils.toString(response.getEntity());
+        result = EntityUtils.toString(response.getEntity(),"utf-8");//注意直接写"utf-8"自动带出defaultCharset
         System.out.println(result);
 
 

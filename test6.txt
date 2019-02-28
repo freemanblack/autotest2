@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-66666
-version 1
-version 2
---合并
->>>>>>> cx3
